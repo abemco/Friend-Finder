@@ -1,0 +1,1 @@
+// Data structure that will store the friends data
